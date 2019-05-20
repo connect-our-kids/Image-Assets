@@ -9,7 +9,7 @@ Here is where all Image, gif, and general file assets should life; This will sav
 ![Alt text](/android-icon-144x144.png?raw=true "Title")
 
 ###HTML CALL FOR ICON SET
-`<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+```<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
 <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
 <link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
@@ -25,7 +25,7 @@ Here is where all Image, gif, and general file assets should life; This will sav
 <link rel="manifest" href="/manifest.json">
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
-<meta name="theme-color" content="#ffffff">'
+<meta name="theme-color" content="#ffffff">
 
 
 
