@@ -30,6 +30,13 @@ Here is where all Image, gif, and general file assets should life; This will sav
 <meta name="theme-color" content="#ffffff"></meta>
 ```
 
+## UI-Images
+{% for image in site.static_files %}
+    {% if image.path contains 'UI-Images/' %}
+        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+    {% endif %}
+{% endfor %}
+
 
 
 
