@@ -2,11 +2,11 @@
 Here is where all Image, gif, and general file assets should life; This will save time on finding assets as the project grows
 
 ## Logo
-![Alt text](/connect-our-kids/Image-Assets/logo.png "Title")
+![Alt text](/logo.png?raw=true "Title")
 
 ## Icon
 
-![Alt text](/connect-our-kids/Image-Assets/icons/android-icon-144x144.png "Title")
+![Alt text](/icons/android-icon-144x144.png?raw=true "Title")
 
 ##HTML CALL FOR ICON SET
 ```<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
