@@ -31,7 +31,7 @@ Here is where all Image, gif, and general file assets should life; This will sav
 ```
 
 ## UI-Images
-![Connect Our Kids Icon](/Icons/*?raw=true "Title")
+![Connect Our Kids Icon](/Icons/*.*?raw=true "Title")
 
 
 
