@@ -7,6 +7,7 @@ Here is where all Image, gif, and general file assets should life; This will sav
 ## Icon
 
 ![Connect Our Kids Icon](/icon.svg "Title")
+<img src='/icon.svg' />
 
 ### HTML CALL FOR ICON SET
 ```html
