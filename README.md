@@ -6,7 +6,7 @@ Here is where all Image, gif, and general file assets should life; This will sav
 
 ## Icon
 
-![Alt text](/icons/android-icon-144x144.png?raw=true "Title")
+![Alt text](./icons/android-icon-144x144.png?raw=true "Title")
 
 ##HTML CALL FOR ICON SET
 ```<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
