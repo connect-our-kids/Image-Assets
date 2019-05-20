@@ -6,7 +6,7 @@ Here is where all Image, gif, and general file assets should life; This will sav
 
 ## Icon
 
-![Alt text](/Icons/android-icon-144x144.png?raw=true "Title")
+![Alt text](/icon.svg?raw=true "Title")
 
 ### HTML CALL FOR ICON SET
 ```html
