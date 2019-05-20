@@ -26,7 +26,8 @@ Here is where all Image, gif, and general file assets should life; This will sav
 <link rel="manifest" href="/manifest.json">
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
-<meta name="theme-color" content="#ffffff">```
+<meta name="theme-color" content="#ffffff">
+```
 
 
 
