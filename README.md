@@ -4,8 +4,10 @@ Here is where all Image, gif, and general file assets should life; This will sav
 ## Logo
 ![Connect Our Kids Logo](/logo.png?raw=true "Title")
 
+
 ## Icon
 
+![Connect Our Kids Icon](/Icons/loading.gif?raw=true "Title")
 ![Connect Our Kids Icon](/Icons/apple-icon-57x57.png?raw=true "Title")
 
 
