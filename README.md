@@ -1,5 +1,5 @@
-# Image-Assets
-Here is where all Image, gif, and general file assets should life; This will save time on finding assets as the project grows
+# Image Assets
+Here is where all Image, gif, and general file assets should live; This will save time on finding assets as the project grows
 
 ## Logo
 ![Connect Our Kids Logo](/logo.png?raw=true "Title")
@@ -32,7 +32,7 @@ Here is where all Image, gif, and general file assets should life; This will sav
 <meta name="theme-color" content="#ffffff"></meta>
 ```
 
-## UI-Images
+
 
 
 
